@@ -1,3 +1,3 @@
 # Suckless
 
-My suckless software configs.
+My suckless software & configs.
